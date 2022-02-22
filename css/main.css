@@ -596,7 +596,7 @@ ul.nostyle i {
 #meet-team .team-member:hover {
   border-color: #45aed6;
 }
-#meet-team .team-member:hover .social-icons > li > a {
+#meet-team .team-member .social-icons a:hover {
   background: #45aed6;
 }
 #meet-team .social-icons {
